@@ -242,7 +242,7 @@ Additional documentation is available in the **docs/** directory.
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 CycleSense is intended solely for **educational and research purposes**.
 
